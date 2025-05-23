@@ -22,6 +22,8 @@ This Streamlit web application allows users to analyze a stock’s risk and retu
 
 ![Screenshot 2](app_preview1.png)
 
+![Screenshot 2](app_preview2.png)
+
 
 ## 📌 How It Works
 
