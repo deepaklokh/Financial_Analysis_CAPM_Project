@@ -16,6 +16,13 @@ This Streamlit web application allows users to analyze a stock’s risk and retu
 
 ---
 
+## Screenshots
+
+![Screenshot 1](app_preview.png)
+
+![Screenshot 2](app_preview1.png)
+
+
 ## 📌 How It Works
 
 1. Enter the stock ticker (e.g., `AAPL`, `MSFT`)
